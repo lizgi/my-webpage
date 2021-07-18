@@ -4,7 +4,7 @@
 background-color: aquamarine;
 font-weight: bolder;
 font-style: italic;
-border: blueviolet;
+border-bottom-left-radius: inherit;
 }
 
 
