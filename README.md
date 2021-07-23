@@ -5,5 +5,5 @@ it uses html and css
 
 
 # website Design
-![image](IMG_20210718_232319.jpg)
+![image](Design.jpg)
 
