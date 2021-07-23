@@ -8,11 +8,15 @@
     border-bottom-left-radius: inherit;
 }
 .navbar{
-    align nav-left ;
-
+    text-align: center ;
+border: 3px black;
 
 }
 .logo{
     float: left;
 }
+.list{
+    display: inline-block;
+    text-align: left;
 
+}
