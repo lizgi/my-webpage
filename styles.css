@@ -1,13 +1,17 @@
 *{
-    color: rgb(78, 62, 62);
+    color: rgb(12, 12, 12);
     padding-top: 0mm;
     text-align: center;
-background-color: rgb(69, 197, 118);
-font-weight: bolder;
-font-style: italic;
-border-bottom-left-radius: inherit;
+    font-weight: bolder;
+    font-style: italic;
+    border-bottom-left-radius: inherit;
 }
-font-family: sans-serif;
-font-weight: bolder;
+.navbar{
+    align nav-left ;
+
+
+}
+.logo{
+    float: left;
 }
 
