@@ -5,5 +5,6 @@ it uses html and css
 
 
 # website Design
-![image](design.jpg)
+![image](sketch.jpeg)
 
+ 
