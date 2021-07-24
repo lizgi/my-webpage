@@ -21,6 +21,8 @@ favorite photographs
 2. UBUNTU terminal for line commands
 3. github account for creation and storage of work on cloud
 4. brains
+
+
 #Developer Name
 *Elizabeth Gikonyo*
 Github name:*lizgi*
